@@ -2,13 +2,14 @@
 layout: default
 ---
 
-In the future, roads will host a complex mix of automated and manually operated vehicles, along with vulnerable road users. However, most automotive user interfaces and human factors research focus on single-agent studies, where one human interacts with one vehicle. Only a few studies incorporate multi-agent setups. This workshop aims to (1) examine the current state of multi-agent research in the automotive domain, (2) serve as a platform for discussion toward more realistic multi-agent setups, and (3) discuss methods and practices to conduct such multi-agent research. The goal is to synthesize the insights from the AutoUI community, creating the foundation for advancing multi-agent traffic interaction research. Full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/bazilinskyy2024always.pdf).
+Research on sexual behavior and transport has either focused on fear of sexual harassment and perceived safety inside public transport or on consensual sexual activity inside private transport framed as distracted driving. Meanwhile, evidence from adult content platforms suggests that consensual sexual activity inside public transport is trending. This is particularly concerning in relation to public and shared automated vehicles (AVs), where enclosure, shared use, and the absence of an authority figure can warp perceptions of accountability and intervention potential, with important consequences for passenger comfort and perceived safety and for public acceptance of the technology. Our workshop aims to address this concern by approaching consensual sexual activity as a design stress test for how AVs are perceived and used as collective spaces. We aim to synthesize design principles, identify open research questions, and establish a research agenda for designing public and shared AVs as comfortable and respectful collective spaces. Full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/automotiveuiadjunct26-12.pdf).
 
-<div class="row" style="text-align:center; margin-bottom: 0px;">
-  <iframe style="display:inline-block; width: 100%; height: 358px" src="https://www.youtube.com/embed/W2VWLYnTYrM?playlist=W2VWLYnTYrM&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
+<!-- <div class="row" style="text-align:center; margin-bottom: 0px;">
+  <iframe style="display:inline-block; width: 100%; height: 358px" src="https://www.youtube.com/embed/W2VWLYnTYrM?playlist=W2VWLYnTYrM&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe> 
 
 Multi-agent crossing scenario in <a href="https://github.com/bazilinskyy/coupled-sim" target="_blank">coupled simulator</a>: AV passenger, MDV driver, and pedestrian (top); views of the three agents (bottom).
-  </div>
+  </div> -->
+![Banner]({{ site.url }}{{ site.baseurl }}/assets/Banner.png)
 
 # Location and schedule
 The workshop (W11) will take place on 22 September 2024, 14:00–18:00 in **room 382**. See full AutoUI programme [here](https://www.auto-ui.org/24/program).
