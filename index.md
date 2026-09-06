@@ -2,7 +2,13 @@
 layout: default
 ---
 
-Research on sexual behavior and transport has either focused on fear of sexual harassment and perceived safety inside public transport or on consensual sexual activity inside private transport framed as distracted driving. Meanwhile, evidence from adult content platforms suggests that consensual sexual activity inside public transport is trending. This is particularly concerning in relation to public and shared automated vehicles (AVs), where enclosure, shared use, and the absence of an authority figure can warp perceptions of accountability and intervention potential, with important consequences for passenger comfort and perceived safety and for public acceptance of the technology. Our workshop aims to address this concern by approaching consensual sexual activity as a design stress test for how AVs are perceived and used as collective spaces. We aim to synthesize design principles, identify open research questions, and establish a research agenda for designing public and shared AVs as comfortable and respectful collective spaces. 
+From the Mile High Club and prom-night limousine rituals to Risky Business and Pornhub amateur content, mobility has never been just about getting from A to B.
+
+Across air travel, public transport, and private vehicles, transport spaces have repeatedly been represented—and appropriated—as spaces of intimacy, experimentation, and sexual expression.
+
+This is particularly concerning in relation to public and shared automated vehicles (AVs), where enclosure, shared use, and the absence of an authority figure can warp perceptions of accountability and intervention potential, with important consequences for passenger comfort, perceived safety, and public acceptance of the technology.
+
+Our workshop approaches consensual sexual activity as a design stress test for how AVs are perceived and used as collective spaces, and explores how physical and digital design can discourage sexual activity in these environments. We aim to synthesize design principles, identify open research questions, and establish a research agenda for designing public and shared AVs as comfortable and respectful collective spaces.
 
 Full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/automotiveuiadjunct26-12.pdf).
 
@@ -14,7 +20,7 @@ Multi-agent crossing scenario in <a href="https://github.com/bazilinskyy/coupled
 ![Banner]({{ site.url }}{{ site.baseurl }}/assets/Banner.png)
 
 # Location and schedule
-The workshop (W11) will take place on 22 September 2024, 14:00–18:00 in **room 382**. See full AutoUI programme [here](https://www.auto-ui.org/24/program).
+The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in **room 382**. See full AutoUI programme [here](https://www.auto-ui.org/24/program).
 
  Activity | Time | Description                                                                                                                 
 -------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------
