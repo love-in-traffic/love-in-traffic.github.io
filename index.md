@@ -2,7 +2,7 @@
 layout: default
 ---
 
-From the Mile High Club and prom-night limousine rituals to Risky Business and Pornhub amateur content, mobility has never been just about getting from A to B. Across air travel, public transport, and private vehicles, transport spaces have repeatedly been represented—and appropriated—as spaces of intimacy, experimentation, and sexual expression.
+From the Mile High Club and prom-night limousine rituals to Risky Business and Pornhub amateur content, mobility has never been just about getting from A to B. Across air travel, public transport, and private vehicles, transport spaces have repeatedly been represented and appropriated as spaces of intimacy, experimentation, and sexual expression.
 
 This is particularly concerning in relation to public and shared automated vehicles (AVs), where enclosure, shared use, and the absence of an authority figure can warp perceptions of accountability and intervention potential, with important consequences for passenger comfort, perceived safety, and public acceptance of the technology. 
 
@@ -30,8 +30,8 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in **room 
  Session 3         | 16:45–17:30        | *Group work 2*: How can we advance the state of multi-agent automotive research?                                              
  Closing           | 17:30–18:00        | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper. 
 
-# Organisers
-## Pavlo Bazilinskyy
+# Organizers
+## Alexandros Rouchitsas
 
 {:.organiser-photo}
 ![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/pavlo-bazilinskyy.jpg)
