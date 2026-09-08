@@ -64,7 +64,7 @@ Soyeon Kim is an assistant professor at University of Warwick. Her research focu
 ## Chen Peng
 
 {:.organiser-photo}
-![Debargha Dey]({{ site.url }}{{ site.baseurl }}/assets/Chen Peng.jpg)
+![Debargha Dey]({{ site.url }}{{ site.baseurl }}/assets/Chen-Peng.jpg)
 
 Loughborough University, Loughborough, United Kingdom
 
