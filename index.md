@@ -31,7 +31,7 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 21
  Group Activity 2: Designing Against Sexual Behavior | 10:45–11:30 | Develop physical and digital design concepts that discourage sexual activity, protect bystanders, shape affordances, de-escalate situations, and preserve passenger agency.
  Coffee Break | 11:30–11:45 |                                     
  Group Activity 3: AI-Assisted Physical and Digital Visualization | 11:45–12:15 | Visualize selected physical and digital concepts using AI image generation to support reflection on affordances, dignity, unintended effects, and design choices.
- Synthesis and Wrap-Up | 12:15–12:30 | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper.
+ Synthesis and Wrap-Up | 12:15–12:30 | Synthesize physical and digital design principles, trade-offs, cross-scenario insights, and open HF/UX questions while defining post-workshop outcomes.
 
 # Organizers
 ## Alexandros Rouchitsas
