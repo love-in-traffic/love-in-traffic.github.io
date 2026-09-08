@@ -13,9 +13,7 @@ Multi-agent crossing scenario in <a href="https://github.com/bazilinskyy/coupled
   </div> -->
 ![Banner]({{ site.url }}{{ site.baseurl }}/assets/Banner.png)
 
-Our workshop approaches consensual sexual activity inside public and shared AVs as a design stress test for how they are perceived and used as collective spaces, and explores how physical and digital design can discourage sexual activity in these environments. We aim to synthesize design principles, identify open research questions, and establish a research agenda for designing public and shared AVs as comfortable and respectful collective spaces.
-
-Full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/automotiveuiadjunct26-12.pdf).
+Our workshop approaches consensual sexual activity inside public and shared AVs as a design stress test for how they are perceived and used as collective spaces, and explores how physical and digital design can discourage sexual activity in these environments. We aim to synthesize design principles, identify open research questions, and establish a research agenda for designing public and shared AVs as comfortable and respectful collective spaces. The full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/automotiveuiadjunct26-12.pdf).
 
 Subject to ethical approval, we also plan to use ideas and materials generated during the workshop in future academic publications, with participants’ informed consent.
 
