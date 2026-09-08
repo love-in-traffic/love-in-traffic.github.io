@@ -39,7 +39,7 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 21
 {:.organiser-photo}
 ![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/Rouchitsas.JPG)
 
-KTG Research & Innovation Ltd., Famagusta, Cyprus ([a.rouchitsas@ktg-innovation.eu](mailto:a.rouchitsas@ktg-innovation.eu)).
+KTG Research & Innovation Ltd., Famagusta, Cyprus ([a.rouchitsas@ktg-innovation.eu](mailto:a.rouchitsas@ktg-innovation.eu))
 
 Alexandros Rouchitsas is a HF/UX professional and certified ergonomist (Eur.Erg.). His research interests include human–AI symbiosis, human–robot collaboration, automated driving, and eye tracking. He received his PhD from Luleå University of Technology in human factors of automated driving.
 
@@ -48,7 +48,7 @@ Alexandros Rouchitsas is a HF/UX professional and certified ergonomist (Eur.Erg.
 {:.organiser-photo}
 ![Patrick Ebel]({{ site.url }}{{ site.baseurl }}/assets/Alvarez.jpg)
 
-Technische Hochschule Ingolstadt, Ingostadt, Germany.
+Technische Hochschule Ingolstadt, Ingostadt, Germany
 
 Ignacio Alvarez holds the Bavarian Top Professorship for Human-Centered Intelligent Systems at Technische Hochschule Ingolstadt. His research interests are at the intersection of agentic AI, systems engineering and human computer interaction. He received his PhD at Basque Country University and Clemson University in developing in-cabin assistant systems.
 
@@ -57,7 +57,7 @@ Ignacio Alvarez holds the Bavarian Top Professorship for Human-Centered Intellig
 {:.organiser-photo}
 ![Francesco Walker]({{ site.url }}{{ site.baseurl }}/assets/Kim.jpg)
 
-University of Warwick, Coventry, United Kingdom.
+University of Warwick, Coventry, United Kingdom
 
 Soyeon Kim is an assistant professor at University of Warwick. Her research focuses on understanding human behaviour and designing human-machine interaction in automated vehicles. She holds a PhD at TU Delft in designing in-vehicle HMI for trustworthy automated vehicles.
 
@@ -66,7 +66,7 @@ Soyeon Kim is an assistant professor at University of Warwick. Her research focu
 {:.organiser-photo}
 ![Debargha Dey]({{ site.url }}{{ site.baseurl }}/assets/Chen Peng.jpg)
 
-Loughborough University, Loughborough, United Kingdom.
+Loughborough University, Loughborough, United Kingdom
 
 Chen Peng is a Lecturer (Assistant Professor) at Loughborough University, UK. Her research focuses on human factors in future mobility. She received her PhD from University of Leeds, UK, as a Marie Sklodowska-Curie Fellow.
 
@@ -75,6 +75,6 @@ Chen Peng is a Lecturer (Assistant Professor) at Loughborough University, UK. He
 {:.organiser-photo}
 ![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/pavlo-bazilinskyy.jpg)
 
-Eindhoven University of Technology, Eindhoven, The Netherlands.
+Eindhoven University of Technology, Eindhoven, The Netherlands
 
 Pavlo Bazilinskyy is an assistant professor at TU Eindhoven focusing on AI-driven interaction between automated vehicles and other road users. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow, where he also worked as a postdoc.
