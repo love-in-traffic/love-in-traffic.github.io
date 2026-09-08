@@ -2,7 +2,7 @@
 layout: default
 ---
 
-From the Mile High Club and prom-night limousine rituals to Risky Business and Pornhub amateur content, mobility has never been just about getting from A to B. Across air travel, public transport, and private vehicles, transport spaces have repeatedly been represented and appropriated as spaces of intimacy, experimentation, and sexual expression.
+From the Mile High Club and prom-night limousine rituals to Risky Business and Pornhub amateur content, mobility has never been only about getting from A to B. Across air travel, public transport, and private vehicles, transport spaces have repeatedly been represented and appropriated as spaces of intimacy, experimentation, and sexual expression.
 
 This is particularly concerning in relation to public and shared automated vehicles (AVs), where enclosure, shared use, and the absence of an authority figure can warp perceptions of accountability and intervention potential, with important consequences for passenger comfort, perceived safety, and public acceptance of the technology. 
 
