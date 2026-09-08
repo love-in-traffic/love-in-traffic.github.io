@@ -46,7 +46,7 @@ Alexandros Rouchitsas is a HF/UX professional and certified ergonomist (Eur.Erg.
 ## Ignacio Alvarez
 
 {:.organiser-photo}
-![Patrick Ebel]({{ site.url }}{{ site.baseurl }}/assets/patrick-ebel.jpg)
+![Patrick Ebel]({{ site.url }}{{ site.baseurl }}/assets/Alvarez.jpg)
 
 Technische Hochschule Ingolstadt, Ingostadt, Germany.
 
