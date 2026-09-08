@@ -18,7 +18,7 @@ Our workshop approaches consensual sexual activity inside public and shared AVs 
 Full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/automotiveuiadjunct26-12.pdf).
 
 # Schedule and Activities
-The workshop (W1) will take place on 20 September 2026, 08:30–12:30 at Natrium, Gothenburg University. See full AutoUI programme [here](https://www.auto-ui.org/26/program-2/).
+The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 2124 (Jämvikten), at Natrium, Gothenburg University. See full AutoUI programme [here](https://www.auto-ui.org/26/program-2/).
 
  Activity | Time | Description                                                                                                                 
 -------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------
