@@ -22,13 +22,14 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in **room 
 
  Activity | Time | Description                                                                                                                 
 -------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------
- Introduction<img width=10/>      | 14:00–14:20<img width=70/>        | Introduction of workshop topics and instructions for interactive online questionnaire. Introductions of organizers and participants. 
- Session 1         | 14:20–15:00        | *Presentation*: Existing multi-agent automotive research.                                                                     
- Coffee break      | 15:00–15:15        | Live demo of the coupled simulator and networking.                                                   
- Session 2         | 15:15–16:30        | *Group work 1*: Do we need multi-agent automotive research?                                                                   
- Coffee break      | 16:30–16:45        | Live demo of the coupled simulator and networking.                                                   
- Visualization         | 16:45–17:30        | *Group work 2*: How can we advance the state of multi-agent automotive research?                                              
- Synthesis and Wrap-Up           | 17:30–18:00        | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper. 
+ Welcome, Scope,and Framing<img width=10/>      | 08:30–08:45<img width=70/>        | Introduction of workshop topics and instructions for interactive online questionnaire. Introductions of organizers and participants. 
+ Scene-Setting Lightning Talks         | 08.45–9.30        | *Presentation*: Existing multi-agent automotive research.                                                                     
+ Group Activity 1: Mapping the Design Problem      | 09:30–10:15      | Live demo of the coupled simulator and networking.  
+ Coffee break      | 10:15–10:45        | Live demo of the coupled simulator and networking. 
+ Group Activity 2: Designing Against Sexual Behavior         | 10:45–11:30       | *Group work 1*: Do we need multi-agent automotive research?                                                                   
+ Coffee break      | 11:30–11:45        | Live demo of the coupled simulator and networking.                                         
+ Visualization         | 11:45–12:15        | *Group work 2*: How can we advance the state of multi-agent automotive research?                                              
+ Synthesis and Wrap-Up           | 12:15–12:30        | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper. 
 
 # Organizers
 ## Alexandros Rouchitsas
