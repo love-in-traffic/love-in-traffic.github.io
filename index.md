@@ -11,7 +11,7 @@ This is particularly concerning in relation to public and shared automated vehic
 
 Multi-agent crossing scenario in <a href="https://github.com/bazilinskyy/coupled-sim" target="_blank">coupled simulator</a>: AV passenger, MDV driver, and pedestrian (top); views of the three agents (bottom).
   </div> -->
-![Banner]({{ site.url }}{{ site.baseurl }}/assets/Banner.png)
+![Banner with logo]({{ site.url }}{{ site.baseurl }}/assets/Banner with logo.png)
 
 Our workshop approaches consensual sexual activity inside public and shared AVs as a design stress test for how they are perceived and used as collective spaces, and explores how physical and digital design can discourage sexual activity in these environments. We aim to synthesize design principles, identify open research questions, and establish a research agenda for designing public and shared AVs as comfortable and respectful collective spaces. The full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/automotiveuiadjunct26-12.pdf).
 
