@@ -26,12 +26,12 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 21
 -------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------
  Welcome, Scope,and Framing<img width=10/> | 08:30–08:45<img width=70/> | Welcome participants, clarify workshop scope, distinguish consensual sexual behavior from criminal conduct, and frame HF/UX concerns around comfort and agency. 
  Scene-Setting Lightning Talks | 08:45–09:30 | Present 2–3 lightning talks and Q&A to establish shared grounding on sexual behavior, safety, affordances, media, responsibility, and bystander dynamics.                       
- Group Activity 1: Mapping the Design Problem | 09:30–10:15 | Live demo of the coupled simulator and networking.  
- Coffee Break | 10:15–10:45 | Live demo of the coupled simulator and networking. 
- Group Activity 2: Designing Against Sexual Behavior | 10:45–11:30 | *Group work 1*: Do we need multi-agent automotive research?                                                                   
- Coffee Break | 11:30–11:45 | Live demo of the coupled simulator and networking.                                         
- Group Activity 3: AI-Assisted Physical and Digital Visualization | 11:45–12:15 | *Group work 2*: How can we advance the state of multi-agent automotive research?                                             
- Synthesis and Wrap-Up | 12:15–12:30 | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper. 
+ Group Activity 1: Mapping the Design Problem | 09:30–10:15 | Map the HF/UX design problem by identifying key user roles, bystander experience, and breakdowns in comfort, safety, civility, and agency. 
+ Coffee Break | 10:15–10:45 | 
+ Group Activity 2: Designing Against Sexual Behavior | 10:45–11:30 | Develop physical and digital design concepts that discourage sexual activity, protect bystanders, shape affordances, de-escalate situations, and preserve passenger agency.
+ Coffee Break | 11:30–11:45 |                                     
+ Group Activity 3: AI-Assisted Physical and Digital Visualization | 11:45–12:15 | Visualize selected physical and digital concepts using AI image generation to support reflection on affordances, dignity, unintended effects, and design choices.
+ Synthesis and Wrap-Up | 12:15–12:30 | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper.
 
 # Organizers
 ## Alexandros Rouchitsas
