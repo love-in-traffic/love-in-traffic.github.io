@@ -73,8 +73,8 @@ Debargha Dey is a postdoctoral researcher at Cornell Tech, with a research focus
 ## Pavlo Bazilinskyy
 
 {:.organiser-photo}
-![Tram Thi Minh Tran]({{ site.url }}{{ site.baseurl }}/assets/tram-tran.jpg)
+![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/pavlo-bazilinskyy.jpg)
 
-Sydney School of Architecture, Design and Planning, The University of Sydney, Sydney, Australia.
+Department of Industrial Design, Eindhoven University of Technology, Eindhoven, The Netherlands ([p.bazilinskyy@tue.nl](mailto:p.bazilinskyy@tue.nl)).
 
-Tram Thi Minh Tran is a postdoctoral researcher at the University of Sydney, Australia. She holds both her Master’s and PhD degrees from the same university. Her research explores the applications and implications of emerging technologies, with a particular focus on AR/VR and autonomous mobility.
+Pavlo Bazilinskyy is an assistant professor at TU Eindhoven focusing on AI-driven interaction between automated vehicles and other road users. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow, where he also worked as a postdoc.
