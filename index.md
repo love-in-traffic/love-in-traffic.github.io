@@ -37,7 +37,7 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 21
 ## Alexandros Rouchitsas
 
 {:.organiser-photo}
-![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/pavlo-bazilinskyy.jpg)
+![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/Rouchitsas.JPG)
 
 KTG Research & Innovation Ltd., Famagusta, Cyprus ([a.rouchitsas@ktg-innovation.eu](mailto:a.rouchitsas@ktg-innovation.eu)).
 
