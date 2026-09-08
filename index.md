@@ -43,7 +43,7 @@ Department of Industrial Design, Eindhoven University of Technology, Eindhoven, 
 
 Pavlo Bazilinskyy is an assistant professor at TU Eindhoven focusing on AI-driven interaction between automated vehicles and other road users. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow, where he also worked as a postdoc. He was the head of data research at NEXTdriver. Pavlo is a treasurer of the Marie Curie Alumni Association (MCAA) and was a director of the Research and Innovation unit of the Erasmus Mundus Association (EMA).
 
-## Patrick Ebel
+## Ignacio Alvarez
 
 {:.organiser-photo}
 ![Patrick Ebel]({{ site.url }}{{ site.baseurl }}/assets/patrick-ebel.jpg)
@@ -52,7 +52,7 @@ ScaDS.AI, Leipzig University, Leipzig, Germany.
 
 Patrick Ebel is a Junior Research Group Leader at the Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) at Leipzig University. He received his PhD. in Computer Science from the University of Cologne and his MSc in Automotive Systems from the TU Berlin. His research focuses on the analysis of large naturalistic driving data and computational models for human-vehicle interaction.
 
-## Francesco Walker
+## Soyeon Kim
 
 {:.organiser-photo}
 ![Francesco Walker]({{ site.url }}{{ site.baseurl }}/assets/francesco-walker.jpg)
@@ -61,7 +61,7 @@ Cognitive Psychology, Leiden University, Leiden, The Netherlands.
 
 Francesco Walker is an assistant professor at Leiden University (NL). He received his PhD from the University of Twente (NL), with a dissertation focused on the assessment and calibration of driver trust in automated vehicles. In Leiden he founded the HAT Lab, a research group that studies how Humans interact with Art and emerging Technologies.
 
-## Debargha Dey
+## Chen Peng
 
 {:.organiser-photo}
 ![Debargha Dey]({{ site.url }}{{ site.baseurl }}/assets/debargha-dey.jpg)
@@ -70,7 +70,7 @@ Information Science, Cornell Tech, New York, NY, USA.
 
 Debargha Dey is a postdoctoral researcher at Cornell Tech, with a research focus on human-automation interaction. He received his PhD in Industrial Design from TU Eindhoven and has 8+ years of experience in the domain of human factors for automated driving and traffic behavior.
 
-## Tram Thi Minh Tran
+## Pavlo Bazilinskyy
 
 {:.organiser-photo}
 ![Tram Thi Minh Tran]({{ site.url }}{{ site.baseurl }}/assets/tram-tran.jpg)
@@ -78,30 +78,3 @@ Debargha Dey is a postdoctoral researcher at Cornell Tech, with a research focus
 Sydney School of Architecture, Design and Planning, The University of Sydney, Sydney, Australia.
 
 Tram Thi Minh Tran is a postdoctoral researcher at the University of Sydney, Australia. She holds both her Master’s and PhD degrees from the same university. Her research explores the applications and implications of emerging technologies, with a particular focus on AR/VR and autonomous mobility.
-
-## Hyochang Kim
-
-{:.organiser-photo}
-![Hyochang Kim]({{ site.url }}{{ site.baseurl }}/assets/hyochang-kim.jpg)
-
-Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
-
-Hyochang Kim is a research director at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Industrial Engineering from Yonsei University. His research focuses on effective interaction methods tailored to specific contexts, with a particular emphasis on AI and autonomous vehicles. He has a special interest in natural communication methods between humans and AI.
-
-## Hyungchai Park 
-
-{:.organiser-photo}
-![Hyungchai Park ]({{ site.url }}{{ site.baseurl }}/assets/hyungchai_park.jpg)
-
-Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
-
-Hyungchai Park is a research director at the Stanford Center at the Incheon Global Campus. He received his Ph.D. in Mechanical Engineering from Stanford University. His research focuses on the integrated analysis of data from vehicles, drones, and urban infrastructure within smart cities.
-
-## Hyunmin Kang
-
-{:.organiser-photo}
-![Hyunmin Kang]({{ site.url }}{{ site.baseurl }}/assets/hyunmin-kang.jpg)
-
-Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
-
-Hyunmin Kang is a research scientist at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Cognitive Engineering from Yonsei University. His research interests include human-computer interaction, autonomous systems, and cognitive ergonomics, with a particular focus on improving the usability and safety of emerging technologies.
