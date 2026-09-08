@@ -18,7 +18,7 @@ Our workshop approaches consensual sexual activity as a design stress test for h
 Full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/automotiveuiadjunct26-12.pdf).
 
 # Location and schedule
-The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in **room 382**. See full AutoUI programme [here]([https://www.auto-ui.org/26/program-2/]).
+The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in **room 382**. See full AutoUI programme [here](https://www.auto-ui.org/26/program-2/).
 
  Activity | Time | Description                                                                                                                 
 -------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------
