@@ -39,18 +39,18 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 21
 {:.organiser-photo}
 ![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/pavlo-bazilinskyy.jpg)
 
-KTG Research & Innovation Ltd., Famagusta, Cyprus ([p.bazilinskyy@tue.nl](mailto:p.bazilinskyy@tue.nl)).
+KTG Research & Innovation Ltd., Famagusta, Cyprus ([a.rouchitsas@ktg-innovation.eu](mailto:a.rouchitsas@ktg-innovation.eu)).
 
-Pavlo Bazilinskyy is an assistant professor at TU Eindhoven focusing on AI-driven interaction between automated vehicles and other road users. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow, where he also worked as a postdoc. He was the head of data research at NEXTdriver. Pavlo is a treasurer of the Marie Curie Alumni Association (MCAA) and was a director of the Research and Innovation unit of the Erasmus Mundus Association (EMA).
+Alexandros Rouchitsas is a HF/UX professional and certified ergonomist (Eur.Erg.). His research interests include human–AI symbiosis, human–robot collaboration, automated driving, and eye tracking. He received his PhD from Luleå University of Technology in human factors of automated driving.
 
 ## Ignacio Alvarez
 
 {:.organiser-photo}
 ![Patrick Ebel]({{ site.url }}{{ site.baseurl }}/assets/patrick-ebel.jpg)
 
-ScaDS.AI, Leipzig University, Leipzig, Germany.
+Technische Hochschule Ingolstadt, Ingostadt, Germany.
 
-Patrick Ebel is a Junior Research Group Leader at the Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) at Leipzig University. He received his PhD. in Computer Science from the University of Cologne and his MSc in Automotive Systems from the TU Berlin. His research focuses on the analysis of large naturalistic driving data and computational models for human-vehicle interaction.
+Ignacio Alvarez holds the Bavarian Top Professorship for Human-Centered Intelligent Systems at Technische Hochschule Ingolstadt. His research interests are at the intersection of agentic AI, systems engineering and human computer interaction. He received his PhD at Basque Country University and Clemson University in developing in-cabin assistant systems.
 
 ## Soyeon Kim
 
@@ -59,7 +59,7 @@ Patrick Ebel is a Junior Research Group Leader at the Center for Scalable Data A
 
 University of Warwick, Coventry, United Kingdom.
 
-Francesco Walker is an assistant professor at Leiden University (NL). He received his PhD from the University of Twente (NL), with a dissertation focused on the assessment and calibration of driver trust in automated vehicles. In Leiden he founded the HAT Lab, a research group that studies how Humans interact with Art and emerging Technologies.
+Soyeon Kim is an assistant professor at University of Warwick. Her research focuses on understanding human behaviour and designing human-machine interaction in automated vehicles. She holds a PhD at TU Delft in designing in-vehicle HMI for trustworthy automated vehicles.
 
 ## Chen Peng
 
@@ -68,7 +68,7 @@ Francesco Walker is an assistant professor at Leiden University (NL). He receive
 
 Loughborough University, Loughborough, United Kingdom.
 
-Debargha Dey is a postdoctoral researcher at Cornell Tech, with a research focus on human-automation interaction. He received his PhD in Industrial Design from TU Eindhoven and has 8+ years of experience in the domain of human factors for automated driving and traffic behavior.
+Chen Peng is a Lecturer (Assistant Professor) at Loughborough University, UK. Her research focuses on human factors in future mobility. She received her PhD from University of Leeds, UK, as a Marie Sklodowska-Curie Fellow.
 
 ## Pavlo Bazilinskyy
 
