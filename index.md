@@ -17,7 +17,7 @@ Our workshop approaches consensual sexual activity inside public and shared AVs 
 
 Full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/automotiveuiadjunct26-12.pdf).
 
-# Location and schedule
+# Schedule and Activities
 The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in **room 382**. See full AutoUI programme [here](https://www.auto-ui.org/26/program-2/).
 
  Activity | Time | Description                                                                                                                 
@@ -27,8 +27,8 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in **room 
  Coffee break      | 15:00–15:15        | Live demo of the coupled simulator and networking.                                                   
  Session 2         | 15:15–16:30        | *Group work 1*: Do we need multi-agent automotive research?                                                                   
  Coffee break      | 16:30–16:45        | Live demo of the coupled simulator and networking.                                                   
- Session 3         | 16:45–17:30        | *Group work 2*: How can we advance the state of multi-agent automotive research?                                              
- Closing           | 17:30–18:00        | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper. 
+ Visualization         | 16:45–17:30        | *Group work 2*: How can we advance the state of multi-agent automotive research?                                              
+ Synthesis and Wrap-Up           | 17:30–18:00        | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper. 
 
 # Organizers
 ## Alexandros Rouchitsas
