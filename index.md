@@ -55,7 +55,7 @@ Ignacio Alvarez holds the Bavarian Top Professorship for Human-Centered Intellig
 ## Soyeon Kim
 
 {:.organiser-photo}
-![Francesco Walker]({{ site.url }}{{ site.baseurl }}/assets/francesco-walker.jpg)
+![Francesco Walker]({{ site.url }}{{ site.baseurl }}/assets/Kim.jpg)
 
 University of Warwick, Coventry, United Kingdom.
 
