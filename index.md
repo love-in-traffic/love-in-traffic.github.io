@@ -13,11 +13,11 @@ Multi-agent crossing scenario in <a href="https://github.com/bazilinskyy/coupled
   </div> -->
 ![Banner]({{ site.url }}{{ site.baseurl }}/assets/Banner.png)
 
-Our workshop approaches consensual sexual activity inside public and shared AVs as a design stress test for how they are perceived and used as collective spaces, and explores how physical and digital design can discourage sexual activity in these environments. We aim to synthesize design principles, identify open research questions, and establish a research agenda for designing public and shared AVs as comfortable and respectful collective spaces. The full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/automotiveuiadjunct26-12.pdf).
-
-Subject to ethical approval, we intend to process output generated during the workshop in future academic publications, with participants’ informed consent.
+Our workshop, **Love In Traffic: Physical and Digital Design Against Consensual Sexual Activity Inside Public and Shared Automated Vehicles**, approaches consensual sexual activity inside public and shared AVs as a design stress test for how they are perceived and used as collective spaces, and explores how physical and digital design can discourage sexual activity in these environments. We aim to synthesize design principles, identify open research questions, and establish a research agenda for designing public and shared AVs as comfortable and respectful collective spaces. The full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/automotiveuiadjunct26-12.pdf).
 
 **Content notice**: Please note that this workshop includes discussion of consensual sexual activity, sexually explicit media, and related scenarios in public and shared transport. Some participants may find this content sensitive, uncomfortable, or distressing. Participation is voluntary, and attendees should use their own discretion in deciding whether the workshop is appropriate for them before enrolling.
+
+Subject to ethical approval, we intend to process output generated during the workshop in future academic publications, with participants’ informed consent.
 
 # Schedule and Activities
 The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 2124 (Jämvikten), at Natrium, Gothenburg University. See full AutoUI programme [here](https://www.auto-ui.org/26/program-2/).
