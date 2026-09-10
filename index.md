@@ -17,7 +17,7 @@ Our workshop, **Love In Traffic: Physical and Digital Design Against Consensual 
 
 **Content notice**: Please note that this workshop includes discussion of consensual sexual activity, sexually explicit media, and related scenarios in public and shared transport. Some participants may find this content sensitive, uncomfortable, or distressing. Participation is voluntary, and attendees should use their own discretion in deciding whether the workshop is appropriate for them before enrolling.
 
-Subject to ethical approval, we intend to process output generated during the workshop in future academic publications, with participants’ informed consent.
+Subject to ethical approval (ERB-1646, Ethical Review Board of Eindhoven University of Technology), we intend to process output generated during the workshop in future academic publications, with participants’ informed consent.
 
 # Schedule and Activities
 The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 2124 (Jämvikten), at Natrium, Gothenburg University. See full AutoUI programme [here](https://www.auto-ui.org/26/program-2/).
