@@ -31,7 +31,7 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 21
  Group Activity 2: Conceptualizing | 10:45–11:30 | Participants conceptualize physical and digital interventions informed by their journey maps and document the resulting concepts in detailed **design briefs**.
  Coffee Break | 11:30–11:45 |                                     
  Group Activity 3: Visualizing | 11:45–12:15 | Participants translate their design briefs into prompts to produce **AI-generated images** of their interventions.
- Synthesizing and Wrapping-up | 12:15–12:30 | Participants derive **design recommendations** and **research priorities** from workshop outputs.
+ Synthesis and Wrap-up | 12:15–12:30 | Participants derive **design recommendations** and **research priorities** from workshop outputs.
 
 # Organizers
 ## Alexandros Rouchitsas
