@@ -39,7 +39,7 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 21
 {:.organiser-photo}
 ![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/Rouchitsas.JPG)
 
-KTG Research & Innovation Ltd., Famagusta, Cyprus ([a.rouchitsas@ktg-innovation.eu](mailto:a.rouchitsas@ktg-innovation.eu))
+KTG Research & Innovation Ltd., Famagusta, Cyprus ([a.rouchitsas@ktg-innovation.eu](mailto:a.rouchitsas@ktg-innovation.eu)) ([alexandros.rouchitsas@gmail.com](mailto:alexandros.rouchitsas@gmail.com))
 
 Alexandros Rouchitsas is a HF/UX professional and certified ergonomist (Eur.Erg.). His research interests include human–AI symbiosis, human–robot collaboration, automated driving, and eye tracking. He received his PhD from Luleå University of Technology in human factors of automated driving.
 
