@@ -24,7 +24,7 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 21
 
  Activity | Time | Description                                                                                                                 
 -------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------
- Welcome, Scope, and Framing<img width=10/> | 08:30–08:45<img width=70/> | Welcome participants, clarify workshop scope, distinguish consensual sexual behavior from criminal conduct, and frame HF/UX concerns around comfort and agency. 
+ Welcome, Scope, and Framing<img width=10/> | 08:30–08:45<img width=70/> | Welcome participants, clarify workshop scope, distinguish consensual sexual behavior from criminal conduct, and frame HF/UX concerns around comfort, safety, and agency. 
  Scene-Setting | 08:45–09:30 | Present 2–3 lightning talks and Q&A to establish shared grounding on sexual behavior, safety, affordances, media, responsibility, and bystander dynamics.                       
  Group Activity 1: Empathizing | 09:30–10:15 | Map the HF/UX design problem by identifying key user roles, bystander experience, and breakdowns in comfort, safety, civility, and agency. 
  Coffee Break | 10:15–10:45 | 
