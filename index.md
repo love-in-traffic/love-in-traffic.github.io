@@ -35,9 +35,21 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 21
 
 # Speakers
 ## Scott Cohen
+
+{:.organiser-photo}
+![Scott Cohen]({{ site.url }}{{ site.baseurl }}/assets/Rouchitsas.JPG)
+
+University Of Surrey, Guildford, United Kingdom
+
 Scott Cohen is Professor of Tourism and Transport and Director of Research in the School of Hospitality and Tourism Management at University of Surrey. Scott's research is primarily focused on societal issues in the contexts of travel, mobility and transport, with particular interests in hypermobility, sustainable mobility, autonomous vehicles and in business and lifestyle travel. Scott's research has been featured in prominent media outlets such as The Economist, The Washington Post, NBC News, Fast Company, Newsweek, USA Today, The Financial Times and The Telegraph.
 
 ## Oscar Oviedo-Trespalacios
+
+{:.organiser-photo}
+![Oscar Oviedo-Trespalacios]({{ site.url }}{{ site.baseurl }}/assets/Rouchitsas.JPG)
+
+Delft University of Technology, Delft, The Netherlands
+
 Oscar Oviedo-Trespalacios is an Associate Professor of Safety in Intelligent Sociotechnical Systems at Delft University of Technology. Oscar's areas of expertise include human factors engineering, sustainable development, misuse of technology, digital work, and transport safety and security. His research has been widely reported in international media, including the ABC, the New York Times, the Independent, the Men’s Health Magazine, and the Washington Post. 
 
  
