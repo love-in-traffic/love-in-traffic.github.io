@@ -46,7 +46,7 @@ Scott Cohen is Professor of Tourism and Transport and Director of Research in th
 ## Oscar Oviedo-Trespalacios
 
 {:.organiser-photo}
-![Oscar Oviedo-Trespalacios]({{ site.url }}{{ site.baseurl }}/assets/Rouchitsas.JPG)
+![Oscar Oviedo-Trespalacios]({{ site.url }}{{ site.baseurl }}/assets/Oscar Oviedo-Trespalacios.png)
 
 Delft University of Technology, Delft, The Netherlands
 
