@@ -54,7 +54,7 @@ Oscar Oviedo-Trespalacios is an Associate Professor of Safety in Intelligent Soc
 
  
 # Organizers
-# Alexandros Rouchitsas
+## Alexandros Rouchitsas
 
 {:.organiser-photo}
 ![Alexandros Rouchitsas]({{ site.url }}{{ site.baseurl }}/assets/Rouchitsas.JPG)
