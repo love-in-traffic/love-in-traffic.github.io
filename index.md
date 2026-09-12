@@ -37,7 +37,7 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 21
 ## Scott Cohen
 
 {:.organiser-photo}
-![Scott Cohen]({{ site.url }}{{ site.baseurl }}/assets/Rouchitsas.JPG)
+![Scott Cohen]({{ site.url }}{{ site.baseurl }}/assets/Scott Cohen.jpg)
 
 University Of Surrey, Guildford, United Kingdom
 
