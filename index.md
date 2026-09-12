@@ -45,7 +45,7 @@ Oscar Oviedo-Trespalacios is an Associate Professor of Safety in Intelligent Soc
 ## Alexandros Rouchitsas
 
 {:.organiser-photo}
-![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/Rouchitsas.JPG)
+![Alexandros Rouchitsas]({{ site.url }}{{ site.baseurl }}/assets/Rouchitsas.JPG)
 
 KTG Research & Innovation Ltd., Famagusta, Cyprus ([a.rouchitsas@ktg-innovation.eu](mailto:a.rouchitsas@ktg-innovation.eu)) ([alexandros.rouchitsas@gmail.com](mailto:alexandros.rouchitsas@gmail.com))
 
@@ -54,7 +54,7 @@ Alexandros Rouchitsas is a HF/UX professional and certified ergonomist (Eur.Erg.
 ## Ignacio Alvarez
 
 {:.organiser-photo}
-![Patrick Ebel]({{ site.url }}{{ site.baseurl }}/assets/Alvarez.jpg)
+![Ignacio Alvarez]({{ site.url }}{{ site.baseurl }}/assets/Alvarez.jpg)
 
 Technische Hochschule Ingolstadt, Ingostadt, Germany
 
@@ -63,7 +63,7 @@ Ignacio Alvarez holds the Bavarian Top Professorship for Human-Centered Intellig
 ## Soyeon Kim
 
 {:.organiser-photo}
-![Francesco Walker]({{ site.url }}{{ site.baseurl }}/assets/Kim.jpg)
+![Soyeon Kim]({{ site.url }}{{ site.baseurl }}/assets/Kim.jpg)
 
 University of Warwick, Coventry, United Kingdom
 
@@ -72,7 +72,7 @@ Soyeon Kim is an assistant professor at University of Warwick. Her research focu
 ## Chen Peng
 
 {:.organiser-photo}
-![Debargha Dey]({{ site.url }}{{ site.baseurl }}/assets/Chen-Peng.jpg)
+![Chen Peng]({{ site.url }}{{ site.baseurl }}/assets/Chen-Peng.jpg)
 
 Loughborough University, Loughborough, United Kingdom
 
