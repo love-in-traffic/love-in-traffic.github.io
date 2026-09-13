@@ -41,7 +41,7 @@ The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 21
 
 University Of Surrey, Guildford, United Kingdom
 
-Scott Cohen is Professor of Tourism and Transport and Director of Research in the School of Hospitality and Tourism Management at University of Surrey. Scott's research is primarily focused on societal issues in the contexts of travel, mobility and transport, with particular interests in hypermobility, sustainable mobility, autonomous vehicles and in business and lifestyle travel. Scott's research has been featured in prominent media outlets such as The Economist, The Washington Post, NBC News, Fast Company, Newsweek, USA Today, The Financial Times and The Telegraph.
+Scott Cohen is a Professor of Tourism and Mobility with over 20 years of academic experience. He is Invited Full Professor at the University of Algarve (Portugal) and Guest Professor of Tourism at Linnaeus University (Sweden). Scott’s research is primarily focused on societal issues in the contexts of travel, mobility and transport, with particular interests in hypermobility, sustainable mobility, autonomous vehicles and in business and lifestyle travel. Scott’s research has been featured in prominent media outlets such as The Economist, The Washington Post, NBC News, Fast Company, Newsweek, USA Today, The Financial Times and The Telegraph.
 
 ## Oscar Oviedo-Trespalacios
 
