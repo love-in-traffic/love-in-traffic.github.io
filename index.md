@@ -61,7 +61,7 @@ Oscar Oviedo-Trespalacios is an Associate Professor of Safety in Intelligent Soc
 
 KTG Research & Innovation Ltd., Famagusta, Cyprus ([a.rouchitsas@ktg-innovation.eu](mailto:a.rouchitsas@ktg-innovation.eu), [alexandros.rouchitsas@gmail.com](mailto:alexandros.rouchitsas@gmail.com))
 
-Alexandros Rouchitsas is a HF/UX professional and certified ergonomist (Eur.Erg.). His research interests include human–AI symbiosis, human–robot collaboration, automated driving, and eye tracking. He received his PhD from Luleå University of Technology in human factors of automated driving. He is currently with KTG Research & Innovation Ltd. as a Senior Research Associate.
+Alexandros Rouchitsas is a HF/UX professional and certified ergonomist (Eur.Erg.). His research interests include human–AI symbiosis, human–robot collaboration, automated driving, and eye tracking. He received his PhD from Luleå University of Technology in human factors of automated driving. Currently, he is with KTG Research & Innovation Ltd. as a Senior Research Associate.
 
 ## Ignacio Alvarez
 
