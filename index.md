@@ -20,7 +20,7 @@ Our workshop, **Love In Traffic: Physical and Digital Design Against Consensual 
 Following ethical approval (ERB-1646, Ethical Review Board of Eindhoven University of Technology), we intend to process output generated during the workshop in future academic publications, with participants’ informed consent.
 
 # Media Coverage
-**Meet the Academics Trying to Stop You From Having Sex in Robotaxis**, WIRED. Read the article [here](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/).
+[**Meet the Academics Trying to Stop You From Having Sex in Robotaxis**](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/).
 
 # Schedule and Activities
 The workshop (W1) will take place on 20 September 2026, 08:30–12:30 in room 2124 (Jämvikten), at Natrium, Gothenburg University. See full AutoUI programme [here](https://www.auto-ui.org/26/program-2/).
