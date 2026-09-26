@@ -11,6 +11,11 @@ This is particularly concerning in relation to public and shared automated vehic
 
 [**Driverless taxi passengers face bans for having sex**](https://www.thetimes.com/uk/transport/article/waymo-driverless-taxis-passengers-sex-ban-p99jj82gg), The Times.
 
+[**Akademikernas udda dilemma – hur man hindrar folk från att ha sex i robottaxis**](https://www.breakit.se/artikel/47472/akademikernas-udda-dilemma-hur-man-hindrar-folk-fran-att-ha-sex-i-robottaxis), BREAKIT.
+
+[**Dilemmat: Hur stoppar man sexet i taxibilarna?**](https://www.svd.se/a/n1o4Oo/sjalvkorande-taxi-sa-ska-sex-i-bilarna-stoppas), Svenska Dagbladet.
+
+
 <!-- <div class="row" style="text-align:center; margin-bottom: 0px;">
   <iframe style="display:inline-block; width: 100%; height: 358px" src="https://www.youtube.com/embed/W2VWLYnTYrM?playlist=W2VWLYnTYrM&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe> 
 
