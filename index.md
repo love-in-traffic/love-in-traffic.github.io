@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-# Media Coverage
-[**Meet the Academics Trying to Stop You From Having Sex in Robotaxis**](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/), WIRED.
 
 From the Mile High Club and prom-night limousine rituals to Risky Business and Pornhub amateur content, mobility has never been just about getting from A to B. Across air travel, public transport, and private vehicles, transport spaces have repeatedly been represented and appropriated as spaces of intimacy, experimentation, and sexual expression.
 
 This is particularly concerning in relation to public and shared automated vehicles (AVs), where enclosure, shared use, and the absence of an authority figure can warp perceptions of accountability and intervention potential, with important consequences for passenger comfort, perceived safety, and public acceptance of the technology. 
+
+# Media Coverage
+[**Meet the Academics Trying to Stop You From Having Sex in Robotaxis**](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/), WIRED.
 
 <!-- <div class="row" style="text-align:center; margin-bottom: 0px;">
   <iframe style="display:inline-block; width: 100%; height: 358px" src="https://www.youtube.com/embed/W2VWLYnTYrM?playlist=W2VWLYnTYrM&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe> 
