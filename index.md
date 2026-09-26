@@ -9,6 +9,8 @@ This is particularly concerning in relation to public and shared automated vehic
 # Media Coverage
 [**Meet the Academics Trying to Stop You From Having Sex in Robotaxis**](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/), WIRED.
 
+[**Driverless taxi passengers face bans for having sex**](https://www.thetimes.com/uk/transport/article/waymo-driverless-taxis-passengers-sex-ban-p99jj82gg), The Times.
+
 <!-- <div class="row" style="text-align:center; margin-bottom: 0px;">
   <iframe style="display:inline-block; width: 100%; height: 358px" src="https://www.youtube.com/embed/W2VWLYnTYrM?playlist=W2VWLYnTYrM&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe> 
 
