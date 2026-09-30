@@ -7,13 +7,21 @@ From the Mile High Club and prom-night limousine rituals to Risky Business and P
 This is particularly concerning in relation to public and shared automated vehicles (AVs), where enclosure, shared use, and the absence of an authority figure can warp perceptions of accountability and intervention potential, with important consequences for passenger comfort, perceived safety, and public acceptance of the technology. 
 
 # Media Coverage
-[**Meet the Academics Trying to Stop You From Having Sex in Robotaxis**](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/), WIRED.
 
-[**Driverless taxi passengers face bans for having sex**](https://www.thetimes.com/uk/transport/article/waymo-driverless-taxis-passengers-sex-ban-p99jj82gg), The Times.
+[**Academics want driverless taxis redesigned to put you off having sex in them**](https://sextechguide.com/safety/academics-want-driverless-taxis-redesigned-to-put-you-off-having-sex-in-them/), SEXTECHGUIDE.
+
+[**Dilemmat: Hur stoppar man sexet i taxibilarna?**](https://www.svd.se/a/n1o4Oo/sjalvkorande-taxi-sa-ska-sex-i-bilarna-stoppas), Svenska Dagbladet.
+
+[**Olá robotáxis. O sexo em transportes públicos subiu de nível**](https://zap.aeiou.pt/ola-robotaxis-o-sexo-em-transportes-publicos-subiu-de-nivel-765824?utm_source=chatgpt.com), ZAP.aeiou.
 
 [**Akademikernas udda dilemma – hur man hindrar folk från att ha sex i robottaxis**](https://www.breakit.se/artikel/47472/akademikernas-udda-dilemma-hur-man-hindrar-folk-fran-att-ha-sex-i-robottaxis), BREAKIT.
 
-[**Dilemmat: Hur stoppar man sexet i taxibilarna?**](https://www.svd.se/a/n1o4Oo/sjalvkorande-taxi-sa-ska-sex-i-bilarna-stoppas), Svenska Dagbladet.
+[**Driverless taxi passengers face bans for having sex**](https://www.thetimes.com/uk/transport/article/waymo-driverless-taxis-passengers-sex-ban-p99jj82gg), The Times.
+
+[**Meet the Academics Trying to Stop You From Having Sex in Robotaxis**](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/), WIRED.
+
+
+
 
 
 <!-- <div class="row" style="text-align:center; margin-bottom: 0px;">
