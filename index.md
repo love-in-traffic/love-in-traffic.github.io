@@ -7,6 +7,7 @@ From the Mile High Club and prom-night limousine rituals to Risky Business and P
 This is particularly concerning in relation to public and shared automated vehicles (AVs), where enclosure, shared use, and the absence of an authority figure can warp perceptions of accountability and intervention potential, with important consequences for passenger comfort, perceived safety, and public acceptance of the technology. 
 
 # Media Coverage
+[**Can good design stop content creators from having sex in robotaxis?**](https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/?comments-page=1#comments), Ars Technica.
 
 [**Academics want driverless taxis redesigned to put you off having sex in them**](https://sextechguide.com/safety/academics-want-driverless-taxis-redesigned-to-put-you-off-having-sex-in-them/), SEXTECHGUIDE.
 
