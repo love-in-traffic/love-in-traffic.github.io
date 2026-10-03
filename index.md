@@ -82,7 +82,7 @@ Oscar Oviedo-Trespalacios is an Associate Professor of Safety in Intelligent Soc
 
 KTG Research & Innovation Ltd., Famagusta, Cyprus ([a.rouchitsas@ktg-research.eu](mailto:a.rouchitsas@ktg-research.eu), [alexandros.rouchitsas@gmail.com](mailto:alexandros.rouchitsas@gmail.com))
 
-Alexandros Rouchitsas is the lead researcher and media contact for the Love In Traffic project. He is a HF/UX professional and certified ergonomist (Eur.Erg.). His research interests include human–AI symbiosis, human–robot collaboration, automated driving, and eye tracking. Alexandros received his PhD from Luleå University of Technology in human factors of automated driving. Currently, he is with KTG Research & Innovation Ltd. as a Senior Research Associate.
+Alexandros Rouchitsas is the lead researcher and media contact for the Love In Traffic project. He is a HF/UX professional and certified ergonomist (Eur.Erg.). His research interests include human–AI symbiosis, human–robot collaboration, automated driving, and eye tracking. Alexandros received his PhD from Luleå University of Technology in human factors of automated driving. Currently, he is with KTG Research & Innovation Ltd. as a Senior Research Fellow.
 
 ## Ignacio Alvarez
 
