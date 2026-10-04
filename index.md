@@ -19,6 +19,8 @@ This is particularly concerning in relation to public and shared automated vehic
 
 [**Akademikernas udda dilemma – hur man hindrar folk från att ha sex i robottaxis**](https://www.breakit.se/artikel/47472/akademikernas-udda-dilemma-hur-man-hindrar-folk-fran-att-ha-sex-i-robottaxis), BREAKIT.
 
+[**Σεξ μέσα σε robotaxi; Ακαδημαϊκή μελέτη για την οικειότητα στα αυτόνομα οχήματα**](https://www.techgear.gr/sex-mesa-se-robotaxi-akadimaiki-meleti-gia-tin-oikeiotita-sta-aytonoma-ochimata-50599), techgear.gr.
+
 [**Driverless taxi passengers face bans for having sex**](https://www.thetimes.com/uk/transport/article/waymo-driverless-taxis-passengers-sex-ban-p99jj82gg), The Times.
 
 [**Meet the Academics Trying to Stop You From Having Sex in Robotaxis**](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/), WIRED.
