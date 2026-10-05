@@ -9,6 +9,8 @@ This is particularly concerning in relation to public and shared automated vehic
 # Media Coverage
 [**Robotaxi, il problema che non ti aspetti: la gente ci fa le cosacce**](https://www.futuroprossimo.it/2026/10/robotaxi-il-problema-che-non-ti-aspetti-la-gente-ci-fa-le-cosacce/), Futuro Prossimo.
 
+[**У Швеції обговорили дизайн роботаксі для протидії інтимній поведінці**](https://processer.media/ua/u-svecii-obgovorili-dizajn-robotaksi-dla-protidii-intimnij-povedinci), Процес.
+
 [**Can good design stop content creators from having sex in robotaxis?**](https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/), Ars Technica.
 
 [**Academics want driverless taxis redesigned to put you off having sex in them**](https://sextechguide.com/safety/academics-want-driverless-taxis-redesigned-to-put-you-off-having-sex-in-them/), SEXTECHGUIDE.
