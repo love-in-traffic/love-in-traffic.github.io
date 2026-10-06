@@ -7,7 +7,11 @@ From the Mile High Club and prom-night limousine rituals to Risky Business and P
 This is particularly concerning in relation to public and shared automated vehicles (AVs), where enclosure, shared use, and the absence of an authority figure can warp perceptions of accountability and intervention potential, with important consequences for passenger comfort, perceived safety, and public acceptance of the technology. 
 
 # Media Coverage
+[**Robotaxis haben ein Sex-Problem – die Lösung ist durchsichtig**](https://www.bluewin.ch/de/digital/robotaxis-haben-ein-sex-problem-die-loesung-ist-durchsichtig-li.3624528), blue News.
+
 [**Robotaxi, il problema che non ti aspetti: la gente ci fa le cosacce**](https://www.futuroprossimo.it/2026/10/robotaxi-il-problema-che-non-ti-aspetti-la-gente-ci-fa-le-cosacce/), Futuro Prossimo.
+
+[**Fahrgäste haben immer öfter Sex in Robotaxis – Forscher halten jetzt dagegen**](https://www.derstandard.at/story/3000000342460/fahrgaeste-haben-immer-oefter-sex-in-robotaxis-forscher-halten-jetzt-dagegen?ref=niewidget&rank=5), Der Standard.
 
 [**У Швеції обговорили дизайн роботаксі для протидії інтимній поведінці**](https://processer.media/ua/u-svecii-obgovorili-dizajn-robotaksi-dla-protidii-intimnij-povedinci), Процес.
 
