@@ -13,6 +13,8 @@ This is particularly concerning in relation to public and shared automated vehic
 
 [**Fahrgäste haben immer öfter Sex in Robotaxis – Forscher halten jetzt dagegen**](https://www.derstandard.at/story/3000000342460/fahrgaeste-haben-immer-oefter-sex-in-robotaxis-forscher-halten-jetzt-dagegen?ref=niewidget&rank=5), Der Standard.
 
+[**Kialakítható-e olyan autonóm taxi, amiben a tartalomkészítők nem fognak szexelni?**](https://sg.hu/cikkek/auto/166964/kialakithato-e-olyan-autonom-taxi-amiben-a-tartalomkeszitok-nem-fognak-szexelni), Sg.hu.
+
 [**У Швеції обговорили дизайн роботаксі для протидії інтимній поведінці**](https://processer.media/ua/u-svecii-obgovorili-dizajn-robotaksi-dla-protidii-intimnij-povedinci), Процес.
 
 [**Can good design stop content creators from having sex in robotaxis?**](https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/), Ars Technica.
